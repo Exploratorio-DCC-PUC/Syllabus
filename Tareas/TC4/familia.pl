@@ -14,3 +14,9 @@ madre(ximena,vicente).
 
 progenitor(X,Y) :- padre(X,Y).
 progenitor(X,Y) :- madre(X,Y).
+
+% hermano(X,Y) significa que X es hermano de Y
+hermano(X,Y) :- progenitor(Z,X), progenitor(Z,Y), Y \= X,!.
+    
+%primo(X,Y) significa que X es primo de Y
+primo(X,Y) :- progenitor(Z,X), progenitor(W,Y), hermano(Z,W).
