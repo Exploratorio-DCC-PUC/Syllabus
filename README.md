@@ -5,12 +5,11 @@ Para dudas sobre la materia o enunciados de tareas puedes preguntar en las issue
 
 ## Equipo Docente
 
-### Profesores
+### Profesor
 
 | Nombre                  | Correo                        |
 | ----------------------- | ----------------------------- |
-| Vicente Domínguez       | vidominguez@uc.cl             |
-| Luiz Ramírez            | llramirez@uc.cl               |
+| Denis Parra             | dparras@uc.cl                 |
 
 ### Ayudantes
 
@@ -18,10 +17,13 @@ Para dudas sobre la materia o enunciados de tareas puedes preguntar en las issue
 | ------------------- | ------------------ |
 | Valentina Álvarez   | vjalvarez@uc.cl    |
 | Natalia Barra       | ncbarra@uc.cl      |
-| Martín De la Fuente | mdelafuente1@uc.cl |
-| Daniela Flores      | diflores@uc.cl     |
+| Luis Fros           | lmfors@uc.cl       |
+| Francisca Ibarra    | faibarra@uc.cl     |
 | Mauricio López      | malopez16@uc.cl    |
+| Michelle Madrid     | msmadrid@uc.cl     |
+| Daniela Poblete     | dnpoblete@uc.cl    |
 | Javier Ruiz         | jiruiz2@uc.cl      |
+| Astrid San Martín    | aesanmar@uc.cl     |
 | Ricardo Schilling   | reschilling@uc.cl  |
 
 
