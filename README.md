@@ -29,22 +29,24 @@ Para dudas sobre la materia o enunciados de tareas puedes preguntar en las issue
 
 ## Contenidos
 - Visualización de información.
+- Recuperación de información.
 - Tecnologías web.
 - Arquitectura de computadores y sistemas operativos.
 - Introducción a las bases de datos.
 - Algoritmos.
 - Ingeniería de Software.
 - Aprendizaje de máquina.
+- Sistemas Recomendadores
 - Computabilidad y complejidad.
 - Programación en lógica.
-- Otros temas: MOOCs, modelos de procesos, criptografía.
+- Otros temas: Criptomonedas, Educación TI, Mobile & Cloud.
 
 
 ## Evaluación
 La **nota de presentación** se calculará como 30% notas de controles y 
 70% notas de tareas. Las actividades evaluadas del curso son las 
 siguientes:
-- 3 controles de lectura sobre algunos de los tópicos vistos en el 
+- 2 controles de lectura sobre algunos de los tópicos vistos en el 
 semestre y artículos en inglés.
 - 2 tareas grandes.
 - 4 tareas chicas.
@@ -64,6 +66,5 @@ indicado. **Cada 1 hora de atraso en la entrega se descuentan 1.5**
 
 - Control 1: 27 de septiembre.
 - Control 2: 24 de octubre.
-- Control 3: 15 de noviembre.
 - Examen: 28 de noviembre.
 
