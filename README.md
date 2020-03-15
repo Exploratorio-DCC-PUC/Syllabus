@@ -64,7 +64,7 @@ indicado. **Cada 1 hora de atraso en la entrega se descuentan 1.5**
 
 ### Fechas de evaluaciones escritas
 
-- Control 1: 27 de septiembre.
-- Control 2: 24 de octubre.
-- Examen: 28 de noviembre.
+- Control 1: 23 de Abril.
+- Control 2: 29 de Mayo.
+- Exámen: 6 de Julio.
 
