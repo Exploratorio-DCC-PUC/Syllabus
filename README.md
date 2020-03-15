@@ -62,6 +62,9 @@ Todas las tareas se entregarán máximo a las 11:59pm del plazo
 indicado. **Cada 1 hora de atraso en la entrega se descuentan 1.5** 
 **puntos**.
 
+Para entregar una tarea fuera de plazo, es necesario enviarle un mail al 
+ayudante jefe (reschilling@uc.cl) con, **por lo menos**, una hora de anticipación.
+
 ### Fechas de evaluaciones escritas
 
 - Control 1: 23 de Abril.
