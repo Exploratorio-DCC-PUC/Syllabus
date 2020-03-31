@@ -71,6 +71,8 @@ ayudante jefe (reschilling@uc.cl) con, **por lo menos**, una hora de anticipaci�
 - Control 2: 29 de Mayo.
 - Exámen: 6 de Julio.
 
+Los videos de clases se encuentran en el [sitio Canvas](https://cursos.canvas.uc.cl/courses/5501/) del curso.
+
 [Link a planificación del curso](https://docs.google.com/spreadsheets/d/15OZVMZZhzr8vs_goftmyMMaa6voavRFAJFefS8RUdHw/edit?usp=sharing)
 
 ![Imagen de planificación del curso](https://user-images.githubusercontent.com/26393051/78038971-df06f680-7343-11ea-8ad3-d091372e7897.png)
