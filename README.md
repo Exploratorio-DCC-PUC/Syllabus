@@ -71,4 +71,4 @@ ayudante jefe (reschilling@uc.cl) con, **por lo menos**, una hora de anticipaci�
 - Control 2: 29 de Mayo.
 - Exámen: 6 de Julio.
 
-Hola soy un ejemplo, saludos!
+[Link a planificación del curso](https://docs.google.com/spreadsheets/d/15OZVMZZhzr8vs_goftmyMMaa6voavRFAJFefS8RUdHw/edit?usp=sharing)
