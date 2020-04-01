@@ -1,0 +1,33 @@
+
+body {
+    margin: 50px auto; 
+    max-width: 1200px;
+    font-family: 'Slabo 27px', serif;
+    background-color: #e3e3e3;
+}
+
+.lista {
+    display: inline-block;
+    width: 380px;
+    border: 2px solid white;
+    border-radius: 5px;
+    margin: 5px;
+    padding: 0 20px 20px 20px;
+    background-color: #f4f4f4;
+    vertical-align: top;
+}
+
+.tarea {
+    margin: 10px 0;
+}
+.tarea.terminada {
+    text-decoration: line-through;
+}
+
+button {
+    margin: 0 5px;
+}
+
+input {
+    margin-top: 10px;
+}
