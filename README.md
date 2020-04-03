@@ -67,7 +67,10 @@ ayudante jefe (reschilling@uc.cl) con, **por lo menos**, una hora de anticipaci√
 
 ### Fechas de evaluaciones escritas
 
-- Control 1: 23 de Abril.
+- Control 1: 28 de Abril
+  - Contenido:
+    - Paper: ['Project Sidewalk: A Web-based Crowdsourcing Tool for Collecting Sidewalk Accessibility Data at Scale'](https://github.com/Exploratorio-DCC-PUC/Syllabus/blob/master/Lecturas/Lectura-Control-1.pdf)
+    - Materia: Desde programacion hasta bases de datos    
 - Control 2: 29 de Mayo.
 - Ex√°men: 6 de Julio.
 
