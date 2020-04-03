@@ -78,4 +78,4 @@ Los videos de clases se encuentran en el [sitio Canvas](https://cursos.canvas.uc
 
 [Link a planificación del curso](https://docs.google.com/spreadsheets/d/15OZVMZZhzr8vs_goftmyMMaa6voavRFAJFefS8RUdHw/edit?usp=sharing)
 
-![Imagen de planificación del curso](https://user-images.githubusercontent.com/26393051/78038971-df06f680-7343-11ea-8ad3-d091372e7897.png)
+![Imagen de planificación del curso](https://user-images.githubusercontent.com/26393051/78399786-f6581500-75cb-11ea-83d0-624664fa73c9.png)
