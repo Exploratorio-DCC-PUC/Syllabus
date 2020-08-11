@@ -17,12 +17,11 @@ Para dudas sobre la materia o enunciados de tareas puedes preguntar en las issue
 | ------------------- | ------------------ |
 | Valentina Álvarez   | vjalvarez@uc.cl    |
 | Natalia Barra       | ncbarra@uc.cl      |
-| Luis Fros           | lmfors@uc.cl       |
-| Francisca Ibarra    | faibarra@uc.cl     |
-| Mauricio López      | malopez16@uc.cl    |
+| Felipe García        | fagarcia5@uc.cl    |
+| Amaia Juanchuto     | ajuanchuto@uc.cl   |
 | Michelle Madrid     | msmadrid@uc.cl     |
+| Constanza Olate     | clolate@uc.cl      |
 | Daniela Poblete     | dnpoblete@uc.cl    |
-| Javier Ruiz         | jiruiz2@uc.cl      |
 | Astrid San Martín    | aesanmar@uc.cl     |
 | Ricardo Schilling   | reschilling@uc.cl  |
 
@@ -59,23 +58,11 @@ de presentación. Se podrán **eximir** del examen si:
 Se puede faltar a **máximo un control o eliminar la peor nota** 
 (controles o tareas chicas). **No se eliminan notas de tareas grandes**.
 Todas las tareas se entregarán máximo a las 11:59pm del plazo 
-indicado. **Cada 1 hora de atraso en la entrega se descuentan 1.5** 
-**puntos**.
-
-Para entregar una tarea fuera de plazo, es necesario enviarle un mail al 
-ayudante jefe (reschilling@uc.cl) con, **por lo menos**, una hora de anticipación.
+indicado. Puede entregar con uno o dos días de atraso, indicandolo previamente
+al ayudante jefe por mail (reschilling@uc.cl).
 
 ### Fechas de evaluaciones escritas
 
-- Control 1: 28 de Abril
-  - Contenido:
-    - Paper: ['Project Sidewalk: A Web-based Crowdsourcing Tool for Collecting Sidewalk Accessibility Data at Scale'](https://github.com/Exploratorio-DCC-PUC/Syllabus/blob/master/Lecturas/Lectura-Control-1.pdf)
-    - Materia: Desde Lenguajes de programacion hasta bases de datos    
-- Control 2: 18 de Junio.
-- Exámen: 10 de Julio.
-
-Los videos de clases se encuentran en el [sitio Canvas](https://cursos.canvas.uc.cl/courses/5501/) del curso.
-
-[Link a planificación del curso](https://docs.google.com/spreadsheets/d/15OZVMZZhzr8vs_goftmyMMaa6voavRFAJFefS8RUdHw/edit?usp=sharing)
-
-![Imagen de planificación del curso](https://user-images.githubusercontent.com/26393051/82478758-5e40bd00-9a9f-11ea-91a4-2a29642f2325.png)
+- Control 1: 01 de Octubre.
+- Control 2: 03 de Noviembre.
+- Exámen: 14 de Diciembre.
