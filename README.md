@@ -21,6 +21,7 @@ Para dudas sobre la materia o enunciados de tareas puedes preguntar en las issue
 | Amaia Juanchuto     | ajuanchuto@uc.cl   |
 | Michelle Madrid     | msmadrid@uc.cl     |
 | Constanza Olate     | clolate@uc.cl      |
+| Juan Pablo Olivares | jpolivares3@uc.cl  |
 | Daniela Poblete     | dnpoblete@uc.cl    |
 | Astrid San Martín    | aesanmar@uc.cl     |
 | Ricardo Schilling   | reschilling@uc.cl  |
