@@ -67,3 +67,7 @@ al ayudante jefe por mail (reschilling@uc.cl).
 - Control 1: 01 de Octubre.
 - Control 2: 03 de Noviembre.
 - Exámen: 14 de Diciembre.
+
+### Planificación del curso:
+
+![planificación](https://user-images.githubusercontent.com/26393051/91504603-a0964900-e89b-11ea-9f79-25197f82e29d.png)
