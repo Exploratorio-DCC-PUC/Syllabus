@@ -1,0 +1,80 @@
+\documentclass[12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{multicol}
+\usepackage{fullpage}
+\usepackage{bera}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\usepackage{graphicx}
+
+\setlength{\parindent}{0pt}
+
+\begin{document}
+
+\begin{flushleft}
+{\footnotesize Pontificia Universidad Católica de Chile\\
+Departamento de Ciencia de la Computación\\
+Computación: Ciencia y Tecnología del Mundo Digital\\
+}
+\begin{center}
+{\huge\bf Tarea Chica 3: Máquinas de Turing}\\ \vspace{0.5cm}
+Profesor Denis Parra \\
+
+\rule{\linewidth}{0.1mm}
+\end{center}
+\end{flushleft}
+
+% El informe no debe contener estos ejemplos
+\section*{Comandos básicos \LaTeX}
+
+Para escribir en modo matemático entre medio del texto usamos los signos pesos $f(a) = 5 * a - 10 + 3$ y todo lo que quede dentro será interpretado como modo matemático. El doble slash sirve como salto de línea. \\
+
+Para escribir una línea centrada de modo matemático usamos doble signo peso:
+$$f(a) = 5 * a - 10 + 3$$
+
+Cuando estamos en modo matemático algunos caracteres especiales (como los corchetes) deben escaparse con slash. Por lo tanto, si queremos definir un conjunto lo haríamos del siguiente modo $A = \{a, b, c, d, e, B\}$\\
+
+Para usar subindices usamos el guión bajo seguido de corchetes que encierran el índice $q_{0}, q_{1}, q_{f}, q_{algo}$. Para usar super índices usamos el acento cincunflejo $q^{0}, q^{f}, q^{algo}$. Incluso pueden combinarse $q_{0}^{1}$.\\
+
+Además de los caracteres clásicos también podemos usar letras griegas en minúsculas $\alpha, \beta, \gamma, \delta, \sigma$ o mayúsculas $\Pi, \Gamma, \Delta, \Sigma$. También hay flechas $\leftarrow, \rightarrow, \leftrightarrow$ y todo tipo de símbolos $\--, \in, \forall, \exists, \wedge, \vee, \cup, \cap$ siempre usando el slash para definirlos. Es difícil memorizar los comandos para todos los símbolos, pero en la página \url{http://detexify.kirelabs.org/classify.html} puedes dibujarlos y te dirá el comando. \\
+
+Para cosas más específicas se puede buscar en Google, hay mucha información. Las operaciones matemáticas se ven muy bien $\frac{2}{3}, \sqrt{2}, \log_{2}(10), 2^{3^{4}} \neq (2^{3})^{4}, \{1, 2, 3\} \times \{a, b, c\}, 2 \cdot 3 \div 4$\\
+
+También se pueden usar contextos para definir \textit{cursiva}, \textbf{negrita}, \texttt{letra de máquina}, etc. En modo matemático no se ve bien el texto porque no hay espacios $L = \{ w | w es multiplo de tres\}$ por lo que resulta útil usar el contexto de texto dentro del modo matemático $L = \{ w | w \text{ es multiplo de tres}\}$.
+
+\subsection*{Ordenar la información}
+Para mostrar la información podemos utilizar:
+\begin{enumerate}
+		        \item Listas:
+		        \begin{itemize}
+		            \item Enumeradas, con el \textit{tag} \texttt{enumerate}
+		            \item Desordenadas, con el \textit{tag} \texttt{itemize}
+		        \end{itemize}
+		        \item Tablas
+		    \end{enumerate}
+
+Por ejemplo, esta es una tabla con bordes visibles:
+		    \[
+		    \begin{array}{|c|c|}
+		    \hline
+		         \text{Símbolo/Comando} & \text{Que hace}  \\ \hline
+		         \text{|} & \text{Indica que hay una línea vertical} \\
+		         \text{\&} & \text{Separa la información entre columnas} \\
+		         \text{hline} & \text{Coloca una línea horizontal} \\
+		         \hline
+		    \end{array}
+		    \]
+En caso de que quieran insertar una imagen deben incluirla en su proyecto. Por ejemplo, esta es una imagen obtenida de la \href{https://diseno.uc.cl/lineas-investigacion/lineas-de-investigacion/diseno-grafico-y-comunicacion-visual/escudo-uc/}{\color{blue}página de Diseño UC}.\\
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=\textwidth]{uc.jpg}
+    \caption{Logo de la Universidad}
+    \label{fig:my_label}
+\end{figure}
+
+\newpage
+% El informe no debe contener estos ejemplos
+
+\end{document}
