@@ -70,4 +70,4 @@ al ayudante jefe por mail (reschilling@uc.cl).
 
 ### Planificación del curso:
 
-![planificación](https://user-images.githubusercontent.com/26393051/91504603-a0964900-e89b-11ea-9f79-25197f82e29d.png)
+![planificación](https://user-images.githubusercontent.com/26393051/100354810-7f92e080-2fcf-11eb-9bd4-c55c5aa97c6c.png)
