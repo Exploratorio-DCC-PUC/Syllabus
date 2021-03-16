@@ -13,18 +13,20 @@ Para dudas sobre la materia o enunciados de tareas puedes preguntar en las issue
 
 ### Ayudantes
 
-| Nombre              | Correo             |
-| ------------------- | ------------------ |
-| Valentina Álvarez   | vjalvarez@uc.cl    |
-| Natalia Barra       | ncbarra@uc.cl      |
-| Felipe García        | fagarcia5@uc.cl    |
-| Amaia Juanchuto     | ajuanchuto@uc.cl   |
-| Michelle Madrid     | msmadrid@uc.cl     |
-| Constanza Olate     | clolate@uc.cl      |
-| Juan Pablo Olivares | jpolivares3@uc.cl  |
-| Daniela Poblete     | dnpoblete@uc.cl    |
-| Astrid San Martín    | aesanmar@uc.cl     |
-| Ricardo Schilling   | reschilling@uc.cl  |
+| Nombre              | Correo               |
+| ------------------- | -------------------- |
+| Valentina Álvarez   | vjalvarez@uc.cl      |
+| Francisca Cattan    | fpcattan@uc.cl       |
+| Felipe García       | fagarcia5@uc.cl      |
+| Amaia Juanchuto     | ajuanchuto@uc.cl     |
+| Maite Madalosso     | maite.madalosso@uc.cl|
+| Michelle Madrid     | msmadrid@uc.cl       |
+| Constanza Olate     | clolate@uc.cl        |
+| Juan Pablo Olivares | jpolivares3@uc.cl    |
+| Sofía Olmedo        | sofia.olmedo.s@uc.cl |
+| Daniela Poblete     | dnpoblete@uc.cl      |
+| Astrid San Martín   | aesanmar@uc.cl       |
+| Ricardo Schilling   | reschilling@uc.cl    |
 
 
 ## Contenidos
@@ -59,15 +61,17 @@ de presentación. Se podrán **eximir** del examen si:
 Se puede faltar a **máximo un control o eliminar la peor nota** 
 (controles o tareas chicas). **No se eliminan notas de tareas grandes**.
 Todas las tareas se entregarán máximo a las 11:59pm del plazo 
-indicado. Puede entregar con uno o dos días de atraso, indicandolo previamente
+indicado. Puede entregar con una a cuatro horas de atraso, indicandolo previamente
 al ayudante jefe por mail (reschilling@uc.cl).
 
 ### Fechas de evaluaciones escritas
 
-- Control 1: 01 de Octubre.
-- Control 2: 03 de Noviembre.
-- Exámen: 14 de Diciembre.
+- Control 1: 29 de Abril.
+- Control 2: 17 de Junio.
+- Exámen: 19 de Julio.
 
 ### Planificación del curso:
 
-![planificación](https://user-images.githubusercontent.com/26393051/100354810-7f92e080-2fcf-11eb-9bd4-c55c5aa97c6c.png)
+Fechas de tareas aún no se encuentran listas:
+
+![planificación](https://user-images.githubusercontent.com/26393051/111323665-db4dac00-8648-11eb-837a-f77c9686a7d0.png)
