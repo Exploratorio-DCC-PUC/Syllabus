@@ -58,12 +58,6 @@ de presentación. Se podrán **eximir** del examen si:
 - No tienen notas bajo 4.0 y promedio  >= 5.5; o
 - Con máximo una nota roja y promedio >= 6.0.
 
-Se puede faltar a **máximo un control o eliminar la peor nota** 
-(controles o tareas chicas). **No se eliminan notas de tareas grandes**.
-Todas las tareas se entregarán máximo a las 11:59pm del plazo 
-indicado. Puede entregar con una a cuatro horas de atraso, indicandolo previamente
-al ayudante jefe por mail (reschilling@uc.cl).
-
 ### Fechas de evaluaciones escritas
 
 - Control 1: 29 de Abril.
@@ -74,4 +68,4 @@ al ayudante jefe por mail (reschilling@uc.cl).
 
 Fechas de tareas aún no se encuentran listas:
 
-![planificación](https://user-images.githubusercontent.com/26393051/111323665-db4dac00-8648-11eb-837a-f77c9686a7d0.png)
+![planificación](https://user-images.githubusercontent.com/26393051/111882853-92725c00-8996-11eb-9ce1-4c40fdfa9420.png)
