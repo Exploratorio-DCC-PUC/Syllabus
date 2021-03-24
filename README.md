@@ -66,6 +66,6 @@ de presentación. Se podrán **eximir** del examen si:
 
 ### Planificación del curso:
 
-Fechas de tareas aún no se encuentran listas:
+(Fechas de tareas aún no se encuentran listas)
 
 ![planificación](https://user-images.githubusercontent.com/42452128/112327603-525ff180-8c94-11eb-880f-409284ad3375.png)
