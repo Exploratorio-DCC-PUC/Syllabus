@@ -68,4 +68,4 @@ de presentación. Se podrán **eximir** del examen si:
 
 Fechas de tareas aún no se encuentran listas:
 
-![planificación](https://user-images.githubusercontent.com/26393051/111882853-92725c00-8996-11eb-9ce1-4c40fdfa9420.png)
+![planificación](https://user-images.githubusercontent.com/42452128/112327603-525ff180-8c94-11eb-880f-409284ad3375.png)
