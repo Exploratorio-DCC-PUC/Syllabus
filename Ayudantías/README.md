@@ -1,5 +1,5 @@
-#Ayudantías grabadas
+# Ayudantías grabadas
 
 | Número | Tema | Link |
 | ------------- | ------------- | ------------- |
-| 1 | Git bash | https://drive.google.com/drive/folders/1N35uLAGcDidznwzys_47WOu6ZKYFtV6r |
+| 1 | Git bash | https://drive.google.com/file/d/1dgK1Ca2sxh2EyvGvrsjqnQ_ykxYi9hJp/view |
