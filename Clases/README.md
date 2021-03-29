@@ -6,6 +6,8 @@
 | 2 | Lenguajes de programación | https://drive.google.com/file/d/13fI5MxdFKZbuETgciqPSi6Lk9nKK0mgh/view |
 | 3 | Visualización de información | https://drive.google.com/file/d/1YpxFnzsPkbLflXN8QuK39hkQljco_0GI/view |
 | 4 | Recuperación de información | https://drive.google.com/file/d/153UtsHNuLwNwYUWX7xK0HTNxelNRpjAS/view |
+| 5 | Tecnología web 1 |  |
+| 6 | Tecnología web 2 |  |
 
 ## Links complementarios
 Aquí encontrarás los links a videos de temas complementarios a las clases.
