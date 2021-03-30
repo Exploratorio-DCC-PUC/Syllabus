@@ -6,7 +6,7 @@
 | 2 | Lenguajes de programación | https://drive.google.com/file/d/13fI5MxdFKZbuETgciqPSi6Lk9nKK0mgh/view |
 | 3 | Visualización de información | https://drive.google.com/file/d/1YpxFnzsPkbLflXN8QuK39hkQljco_0GI/view |
 | 4 | Recuperación de información | https://drive.google.com/file/d/153UtsHNuLwNwYUWX7xK0HTNxelNRpjAS/view |
-| 5 | Tecnología web 1 |  |
+| 5 | Tecnología web 1 | https://drive.google.com/file/d/19t3M5FaMk76qE5c6s2JhvfL5MUzJrJ3y/view |
 | 6 | Tecnología web 2 |  |
 
 ## Links complementarios
