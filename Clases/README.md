@@ -8,6 +8,7 @@
 | 4 | Recuperación de información | https://drive.google.com/file/d/153UtsHNuLwNwYUWX7xK0HTNxelNRpjAS/view |
 | 5 | Tecnología web 1 | https://drive.google.com/file/d/19t3M5FaMk76qE5c6s2JhvfL5MUzJrJ3y/view |
 | 6 | Tecnología web 2 | https://drive.google.com/file/d/13VYykoM5Eow-g1minRoQ8r4_tGVSXQaH/view |
+| 7 | Arquitectura de computadores | https://www.youtube.com/watch?v=nkrGCRknoL8 |
 
 ## Links complementarios
 Aquí encontrarás los links a videos de temas complementarios a las clases.
