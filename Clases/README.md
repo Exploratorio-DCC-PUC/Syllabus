@@ -14,5 +14,6 @@
 ## Links complementarios
 Aquí encontrarás los links a videos de temas complementarios a las clases.
 
-- Cozmo Iphone App: https://www.youtube.com/watch?v=kt-KYA7YAqg&feature=youtu.be
-- Cozmo Python API: https://www.youtube.com/watch?v=AlKf4WIgK9s
+- Cozmo Iphone App: [link](https://www.youtube.com/watch?v=kt-KYA7YAqg&feature=youtu.be)
+- Cozmo Python API: [link](https://www.youtube.com/watch?v=AlKf4WIgK9s)
+- Librería pandas: [link](https://drive.google.com/drive/folders/13a7ZCLrGJEZfc9AzRGuHAHTrqCq3ZLZT)
