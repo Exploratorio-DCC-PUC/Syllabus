@@ -14,6 +14,7 @@
 | 8.2 | Arquitectura de computadores II (Slides) | [link](http://iic2333.ing.puc.cl/slides/exploratorio-os.html#/1/2) |
 | 9 | Bases de datos I | [link](https://zoom.us/rec/play/IfqsjKtPsgjBySEVhp19d7EQHQ2qHDFQ4uaoKzSwi9eU_WO6SvfbkrqQDnwmJNe9gPn1ZtDhdJoO3_OR.1w64iCP0BbO3HDwA?continueMode=true&_x_zm_rtaid=6feMqbgzQZym9FM3aXjjvw.1618328005648.0df7d417e98f7458f12d9850c0407e4d&_x_zm_rhtaid=588) |
 | 10 | Bases de datos II | [link](https://drive.google.com/drive/folders/1N35uLAGcDidznwzys_47WOu6ZKYFtV6r) |
+| 11 | Algoritmos | [link](https://zoom.us/rec/play/IIXUohT1GOC2Pqajjjn-4SvD-abu-zNWGu9-O3lo0VXaf0Oy8a5LQHx_cxRcAF1_xLaix7Dmk7dofZUB.0wf7FrfXPw6i_xnh) |
 
 ## Links complementarios
 Aquí encontrarás los links a videos de temas complementarios a las clases.
