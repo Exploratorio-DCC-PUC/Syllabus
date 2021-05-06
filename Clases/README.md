@@ -16,7 +16,9 @@
 | 10 | Bases de datos II | [link](https://drive.google.com/drive/folders/1N35uLAGcDidznwzys_47WOu6ZKYFtV6r) |
 | 11 | Algoritmos | [link](https://zoom.us/rec/play/IIXUohT1GOC2Pqajjjn-4SvD-abu-zNWGu9-O3lo0VXaf0Oy8a5LQHx_cxRcAF1_xLaix7Dmk7dofZUB.0wf7FrfXPw6i_xnh) |
 | 12 | Ingeniería de software | [link](https://zoom.us/rec/share/htzO7-ei5xvy2AbN5TAT4s50hO9gWIYLda8VigV9PXS93MpWN71dQFaamnNbWKLO.CyCFsn-MQDqeCeR2) |
-| 13 | Ingeniería de software | [link](https://drive.google.com/file/d/1R30X79GemasK1ANVsT3hNHo-r1R3HMRb/view?usp=sharing) |
+| 13 | Ingeniería de software | [link](https://drive.google.com/file/d/1R30X79GemasK1ANVsT3hNHo-r1R3HMRb/view?usp=sharing)|
+| 14 | Inteligencia Artificial I | [link](https://zoom.us/rec/share/n2jqdRE0SNKwudpXFxAmgu9Apf3tr-m9tNVZQHySyTyy8Tg0HHl0AZgU68rix1pu.NKEMWKndAkWgW83b)|
+| 15 | Inteligencia Artificial II | [link](https://zoom.us/rec/share/n2jqdRE0SNKwudpXFxAmgu9Apf3tr-m9tNVZQHySyTyy8Tg0HHl0AZgU68rix1pu.NKEMWKndAkWgW83b)|
 
 ## Links complementarios
 Aquí encontrarás los links a videos de temas complementarios a las clases.
