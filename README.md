@@ -24,7 +24,6 @@ Para dudas sobre la materia o enunciados de tareas puedes preguntar en las issue
 | Constanza Olate     | clolate@uc.cl        |
 | Juan Pablo Olivares | jpolivares3@uc.cl    |
 | Sofía Olmedo        | sofia.olmedo.s@uc.cl |
-| Daniela Poblete     | dnpoblete@uc.cl      |
 | Astrid San Martín   | aesanmar@uc.cl       |
 | Ricardo Schilling   | reschilling@uc.cl    |
 
