@@ -18,7 +18,7 @@
 | 12 | Ingeniería de software | [link](https://zoom.us/rec/share/htzO7-ei5xvy2AbN5TAT4s50hO9gWIYLda8VigV9PXS93MpWN71dQFaamnNbWKLO.CyCFsn-MQDqeCeR2) |
 | 13 | Ingeniería de software | [link](https://drive.google.com/file/d/1R30X79GemasK1ANVsT3hNHo-r1R3HMRb/view?usp=sharing)|
 | 14 | Inteligencia Artificial I | [link](https://drive.google.com/file/d/1EN533oPxbUJygT_q29x84iid4cgL_Tpd/view?usp=sharing)|
-| 15 | Inteligencia Artificial II | [link](https://zoom.us/rec/share/n2jqdRE0SNKwudpXFxAmgu9Apf3tr-m9tNVZQHySyTyy8Tg0HHl0AZgU68rix1pu.NKEMWKndAkWgW83b)|
+| 15 | Inteligencia Artificial II | [link](https://drive.google.com/file/d/1tL7hPAFe73R0SUPDwzWvOlo1RmV2TuD8/view?usp=sharing)|
 
 ## Links complementarios
 Aquí encontrarás los links a videos de temas complementarios a las clases.
