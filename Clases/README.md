@@ -9,18 +9,17 @@
 | 5 | Tecnología web 1 | [link](https://drive.google.com/file/d/19t3M5FaMk76qE5c6s2JhvfL5MUzJrJ3y/view) |
 | 6 | Tecnología web 2 | [link](https://drive.google.com/file/d/13VYykoM5Eow-g1minRoQ8r4_tGVSXQaH/view) |
 | 7.1 | Arquitectura de computadores I (Clase teórica) | [link](https://www.youtube.com/watch?v=nkrGCRknoL8) |
-| 7.2 | Arquitectura de computadores I (Clase consultas) | [link](https://drive.google.com/file/d/1SxmVe_y4IrJwmWRvE_xlf-y0JvZJTHeB/view) |
-| 8.1 | Arquitectura de computadores II (Clase zoom) | [link](https://zoom.us/rec/share/U11YyMCJeE41Df0Wu-6aQMBKwVeVM-nGMeGK2TaEQ5sOfFzgeLFl3XzXNSRMqpzN.r1YxyM9mrrknJwE2) |
-| 8.2 | Arquitectura de computadores II (Slides) | [link](http://iic2333.ing.puc.cl/slides/exploratorio-os.html#/1/2) |
-| 9 | Bases de datos I | [link](https://zoom.us/rec/play/IfqsjKtPsgjBySEVhp19d7EQHQ2qHDFQ4uaoKzSwi9eU_WO6SvfbkrqQDnwmJNe9gPn1ZtDhdJoO3_OR.1w64iCP0BbO3HDwA?continueMode=true&_x_zm_rtaid=6feMqbgzQZym9FM3aXjjvw.1618328005648.0df7d417e98f7458f12d9850c0407e4d&_x_zm_rhtaid=588) |
-| 10 | Bases de datos II | [link](https://drive.google.com/drive/folders/1N35uLAGcDidznwzys_47WOu6ZKYFtV6r) |
-| 11 | Algoritmos | [link](https://zoom.us/rec/play/IIXUohT1GOC2Pqajjjn-4SvD-abu-zNWGu9-O3lo0VXaf0Oy8a5LQHx_cxRcAF1_xLaix7Dmk7dofZUB.0wf7FrfXPw6i_xnh) |
-| 12 | Ingeniería de software | [link](https://zoom.us/rec/share/htzO7-ei5xvy2AbN5TAT4s50hO9gWIYLda8VigV9PXS93MpWN71dQFaamnNbWKLO.CyCFsn-MQDqeCeR2) |
-| 13 | Ingeniería de software | [link](https://drive.google.com/file/d/1R30X79GemasK1ANVsT3hNHo-r1R3HMRb/view?usp=sharing)|
-| 14 | Inteligencia Artificial I | [link](https://drive.google.com/file/d/1EN533oPxbUJygT_q29x84iid4cgL_Tpd/view?usp=sharing)|
-| 15 | Inteligencia Artificial II | [link](https://drive.google.com/file/d/1tL7hPAFe73R0SUPDwzWvOlo1RmV2TuD8/view?usp=sharing)|
+| 7.2 | Arquitectura de computadores I (Clase consultas) | [link](https://drive.google.com/file/d/1SxmVe_y4IrJwmWRvE_xlf-y0JvZJTHeB/view?usp=sharing) |
+| 8.1 | Arquitectura de computadores II (Clase grabada) | [link](https://drive.google.com/file/d/1Cu8Y9Zm1UK5VGAzqoeV-sOsuNE9twYzZ/view?usp=sharing) |
+| 8.2 | Arquitectura de computadores II (Slides) | [link](http://iic2333.ing.puc.cl/slides/exploratoriohttps://drive.google.com/file/d/1BWhEbvQp_tz3iB5yQhR9OPC85A_NKUiw/view?usp=sharing) |
+| 10 | Bases de datos II | [link](https://drive.google.com/file/d/1o6blXnRPxWCrS-XZoGQzwG0tq9b_HqIe/view?usp=sharing)  |
+| 11 | Algoritmos | [link](https://drive.google.com/file/d/14mXbZEShe8Q4LsloY_Fva-ki-NRrAvjq/view?usp=sharing) |
+| 12 | Ingeniería de software | [link](https://drive.google.com/file/d/1VKiSlVYk_rax67D6_2xt9bMi3MNdFmay/view?usp=sharing) |
+| 13 | Ingeniería de software | [link](https://drive.google.com/file/d/1R30X79GemasK1ANVsT3hNHo-r1R3HMRb/view?usp=sharing) |
+| 14 | Inteligencia Artificial I | [link](https://drive.google.com/file/d/1EN533oPxbUJygT_q29x84iid4cgL_Tpd/view?usp=sharing) |
+| 15 | Inteligencia Artificial II | [link](https://drive.google.com/file/d/1tL7hPAFe73R0SUPDwzWvOlo1RmV2TuD8/view?usp=sharing) |
 | 16 | FAT | [link](https://drive.google.com/file/d/1NgiqCRYeu4HBMx5bvjzDutfkXksWyb4z/view?usp=sharing)|
-
+| 17 | Deep learning | [link](https://drive.google.com/file/d/1MpULyzqWNi4p1tX5wiMw6u1A8cKsJL2D/view?usp=sharing) |
 ## Links complementarios
 Aquí encontrarás los links a videos de temas complementarios a las clases.
 
