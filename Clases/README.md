@@ -20,6 +20,8 @@
 | 15 | Inteligencia Artificial II | [link](https://drive.google.com/file/d/1tL7hPAFe73R0SUPDwzWvOlo1RmV2TuD8/view?usp=sharing) |
 | 16 | FAT | [link](https://drive.google.com/file/d/1NgiqCRYeu4HBMx5bvjzDutfkXksWyb4z/view?usp=sharing)|
 | 17 | Deep learning | [link](https://drive.google.com/file/d/1MpULyzqWNi4p1tX5wiMw6u1A8cKsJL2D/view?usp=sharing) |
+| 18 | Algoritmos y Computabilidad | [link](https://drive.google.com/file/d/1G6idFMWXCSUqO1rwgL2CCnFSyJzyJLHO/view?usp=sharing) |
+
 ## Links complementarios
 Aquí encontrarás los links a videos de temas complementarios a las clases.
 
