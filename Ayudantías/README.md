@@ -7,4 +7,5 @@
 | 3 | Jupyter, Pandas y Seaborn | [link](https://drive.google.com/file/d/1sJdTcrlfogmdEFg0ciQr1rXRNJv7g4u7/view?usp=sharing) |
 | 4 | HTML, CSS y JS | [link](https://drive.google.com/file/d/1Fc5_7OVW6qdCOkXDnl0z-c7WZ_--goCt/view?usp=sharing) |
 | 5 | Bases de datos - TC2 | [link](https://drive.google.com/file/d/1f58hLKhf9mydlwlwW8zlYIkiDf7GQi3b/view?usp=sharing) |
-| 5 | Preprocessing - TG2 | [link](https://drive.google.com/file/d/1skWghRKKkfo2uwttBkDiHVtixP2fh92j/view?usp=sharing) |
+| 6 | Preprocessing - TG2 | [link](https://drive.google.com/file/d/1skWghRKKkfo2uwttBkDiHVtixP2fh92j/view?usp=sharing) |
+| 7 | sklearn & machine learning - TG2 | [link](https://drive.google.com/file/d/1skWghRKKkfo2uwttBkDiHVtixP2fh92j/view?usp=sharing) |
