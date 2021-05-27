@@ -21,6 +21,7 @@
 | 16 | FAT | [link](https://drive.google.com/file/d/1NgiqCRYeu4HBMx5bvjzDutfkXksWyb4z/view?usp=sharing)|
 | 17 | Deep learning | [link](https://drive.google.com/file/d/1MpULyzqWNi4p1tX5wiMw6u1A8cKsJL2D/view?usp=sharing) |
 | 18 | Algoritmos y Computabilidad | [link](https://drive.google.com/file/d/1G6idFMWXCSUqO1rwgL2CCnFSyJzyJLHO/view?usp=sharing) |
+| 19 | Complejidad computacional | [link](https://drive.google.com/file/d/1vp0nsVHGLErdyUgVTVV-IHLDtkM5mW4T/view?usp=sharing) |
 
 ## Links complementarios
 Aquí encontrarás los links a videos de temas complementarios a las clases.
