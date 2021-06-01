@@ -22,6 +22,7 @@
 | 17 | Deep learning | [link](https://drive.google.com/file/d/1MpULyzqWNi4p1tX5wiMw6u1A8cKsJL2D/view?usp=sharing) |
 | 18 | Algoritmos y Computabilidad | [link](https://drive.google.com/file/d/1G6idFMWXCSUqO1rwgL2CCnFSyJzyJLHO/view?usp=sharing) |
 | 19 | Complejidad computacional | [link](https://drive.google.com/file/d/1vp0nsVHGLErdyUgVTVV-IHLDtkM5mW4T/view?usp=sharing) |
+| 20 | Programación lógica | [link](https://drive.google.com/file/d/1AvSAEitL8JsmvEeO6o1XqSrAIM7y0lVI/view?usp=sharing) |
 
 ## Links complementarios
 Aquí encontrarás los links a videos de temas complementarios a las clases.
@@ -29,3 +30,4 @@ Aquí encontrarás los links a videos de temas complementarios a las clases.
 - Cozmo Iphone App: [link](https://www.youtube.com/watch?v=kt-KYA7YAqg&feature=youtu.be)
 - Cozmo Python API: [link](https://www.youtube.com/watch?v=AlKf4WIgK9s)
 - Librería pandas: [link](https://drive.google.com/file/d/1iwynpbZfy2UF491bj8uMbnQ5E22rZ64v/view?usp=sharing)
+- Demo programación lógica: [link](https://swish.swi-prolog.org/p/DemoJorgeBaier.pl)
