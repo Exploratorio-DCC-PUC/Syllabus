@@ -27,9 +27,10 @@
 | 22 | Modelación de procesos | [link](https://drive.google.com/file/d/1y8LYQwwyCuZfAt7WYHwHk8rFlJ97fC7A/view?usp=sharing) |
 
 ## Links complementarios
-Aquí encontrarás los links a videos de temas complementarios a las clases.
+Aquí encontrarás los links complementarios a las clases.
 
 - Cozmo Iphone App: [link](https://www.youtube.com/watch?v=kt-KYA7YAqg&feature=youtu.be)
 - Cozmo Python API: [link](https://www.youtube.com/watch?v=AlKf4WIgK9s)
 - Librería pandas: [link](https://drive.google.com/file/d/1iwynpbZfy2UF491bj8uMbnQ5E22rZ64v/view?usp=sharing)
 - Demo programación lógica: [link](https://swish.swi-prolog.org/p/DemoJorgeBaier.pl)
+- Poster BPMN: [link](https://drive.google.com/file/d/1BFa2YGOLIylSY2k5FgROsdBCVjkK8Xkw/view?usp=sharing)
