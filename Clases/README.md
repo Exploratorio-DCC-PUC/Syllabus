@@ -24,7 +24,8 @@
 | 19 | Complejidad computacional | [link](https://drive.google.com/file/d/1vp0nsVHGLErdyUgVTVV-IHLDtkM5mW4T/view?usp=sharing) |
 | 20 | Programación lógica I | [link](https://drive.google.com/file/d/1AvSAEitL8JsmvEeO6o1XqSrAIM7y0lVI/view?usp=sharing) |
 | 21 | Programación lógica II | [link](https://drive.google.com/file/d/1u11O48aIhpHkHA2xMpt2LD5EB6qyuOQn/view?usp=sharing) |
-| 22 | Modelación de procesos | [link](https://drive.google.com/file/d/1y8LYQwwyCuZfAt7WYHwHk8rFlJ97fC7A/view?usp=sharing) |
+| 22 | Modelación de procesos I | [link](https://drive.google.com/file/d/1y8LYQwwyCuZfAt7WYHwHk8rFlJ97fC7A/view?usp=sharing) |
+| 23 | Modelación de procesos II | [link](https://drive.google.com/file/d/1sNpBlUGikG4XV7bFsiwbeeFwxxUsxR4i/view?usp=sharing) |
 
 ## Links complementarios
 Aquí encontrarás los links complementarios a las clases.
