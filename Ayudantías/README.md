@@ -9,3 +9,4 @@
 | 5 | Bases de datos - TC2 | [link](https://drive.google.com/file/d/1f58hLKhf9mydlwlwW8zlYIkiDf7GQi3b/view?usp=sharing) |
 | 6 | Preprocessing - TG2 | [link](https://drive.google.com/file/d/1skWghRKKkfo2uwttBkDiHVtixP2fh92j/view?usp=sharing) |
 | 7 | sklearn & machine learning - TG2 | [link](https://drive.google.com/file/d/1skWghRKKkfo2uwttBkDiHVtixP2fh92j/view?usp=sharing) |
+| 8 | Máquinas de turing - TC3 | [link](https://drive.google.com/file/d/1skWghRKKkfo2uwttBkDiHVtixP2fh92j/view?usp=sharing) |

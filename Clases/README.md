@@ -27,6 +27,7 @@
 | 22 | Modelación de procesos I | [link](https://drive.google.com/file/d/1y8LYQwwyCuZfAt7WYHwHk8rFlJ97fC7A/view?usp=sharing) |
 | 23 | Modelación de procesos II | [link](https://drive.google.com/file/d/1sNpBlUGikG4XV7bFsiwbeeFwxxUsxR4i/view?usp=sharing) |
 | 24 | Blockchain - Criptomonedas | [link](https://drive.google.com/file/d/1eIqlpTxI0QoimMFFGutwP8S_00HPYgYa/view?usp=sharing) |
+| 25 | Transformación digital | [link](https://drive.google.com/file/d/1zEmwUOb8AQ1dw2xOV8k9OCw-UB-JYuN8/view?usp=sharing) |
 
 ## Links complementarios
 Aquí encontrarás los links complementarios a las clases.
