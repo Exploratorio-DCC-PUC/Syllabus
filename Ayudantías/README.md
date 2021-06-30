@@ -10,3 +10,4 @@
 | 6 | Preprocessing - TG2 | [link](https://drive.google.com/file/d/1skWghRKKkfo2uwttBkDiHVtixP2fh92j/view?usp=sharing) |
 | 7 | sklearn & machine learning - TG2 | [link](https://drive.google.com/file/d/1skWghRKKkfo2uwttBkDiHVtixP2fh92j/view?usp=sharing) |
 | 8 | Máquinas de turing - TC3 | [link](https://drive.google.com/file/d/1skWghRKKkfo2uwttBkDiHVtixP2fh92j/view?usp=sharing) |
+| 9 | Modelación de procesos - TC4 | [link](https://drive.google.com/file/d/1D4LwQmuqsdGOdzOzOYQcCAMgBR-MEdI_/view?usp=sharing) |
