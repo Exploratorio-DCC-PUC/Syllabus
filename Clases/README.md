@@ -28,8 +28,8 @@
 | 23 | Modelación de procesos II | [link](https://drive.google.com/file/d/1sNpBlUGikG4XV7bFsiwbeeFwxxUsxR4i/view?usp=sharing) |
 | 24 | Blockchain - Criptomonedas | [link](https://drive.google.com/file/d/1eIqlpTxI0QoimMFFGutwP8S_00HPYgYa/view?usp=sharing) |
 | 25 | Transformación digital | [link](https://drive.google.com/file/d/1zEmwUOb8AQ1dw2xOV8k9OCw-UB-JYuN8/view?usp=sharing) |
-| 26 | Charla Ivania | [link](https://drive.google.com/file/d/1fPK4FEpFbnh1zi3-7QPD-4AndD0SHdCh/view?usp=sharing) |
-| 27 | Charla Carmen | [link](https://drive.google.com/file/d/1D_9BT49P7SmBj7qYDPidN-WL3oKDUDCm/view?usp=sharing) |
+| 26 | Charla Ivania Donoso | [link](https://drive.google.com/file/d/1fPK4FEpFbnh1zi3-7QPD-4AndD0SHdCh/view?usp=sharing) |
+| 27 | Charla Carmen Gerea | [link](https://drive.google.com/file/d/1D_9BT49P7SmBj7qYDPidN-WL3oKDUDCm/view?usp=sharing) |
 
 ## Links complementarios
 Aquí encontrarás los links complementarios a las clases.
