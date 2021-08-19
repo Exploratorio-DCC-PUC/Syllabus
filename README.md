@@ -13,19 +13,17 @@ Para dudas sobre la materia o enunciados de tareas puedes preguntar en las issue
 
 ### Ayudantes
 
-| Nombre              | Correo               |
-| ------------------- | -------------------- |
-| Valentina Álvarez   | vjalvarez@uc.cl      |
-| Francisca Cattan    | fpcattan@uc.cl       |
-| Felipe García       | fagarcia5@uc.cl      |
-| Amaia Juanchuto     | ajuanchuto@uc.cl     |
-| Maite Madalosso     | maite.madalosso@uc.cl|
-| Michelle Madrid     | msmadrid@uc.cl       |
-| Constanza Olate     | clolate@uc.cl        |
-| Juan Pablo Olivares | jpolivares3@uc.cl    |
-| Sofía Olmedo        | sofia.olmedo.s@uc.cl |
-| Astrid San Martín   | aesanmar@uc.cl       |
-| Ricardo Schilling   | reschilling@uc.cl    |
+| Nombre              | Correo                 |
+| ------------------- | -----------------------|
+| Valentina Álvarez   | vjalvarez@uc.cl        |
+| Maite Madalosso     | maite.madalosso@uc.cl  |
+| Michelle Madrid     | msmadrid@uc.cl         |
+| Constanza Olate     | clolate@uc.cl          |
+| Juan Pablo Olivares | jpolivares3@uc.cl      |
+| Sofía Olmedo        | sofia.olmedo.s@uc.cl   |
+| Jose Quintana       | josemiguelquinta@uc.cl |
+| Astrid San Martín   | aesanmar@uc.cl         |
+| Ricardo Schilling   | reschilling@uc.cl      |
 
 
 ## Contenidos
@@ -59,12 +57,11 @@ de presentación. Se podrán **eximir** del examen si:
 
 ### Fechas de evaluaciones escritas
 
-- Control 1: 29 de Abril.
-- Control 2: 17 de Junio.
-- Exámen: 19 de Julio.
+- Control 1: 5 de Octubre.
+- Control 2: 25 de Noviembre.
+- Exámen: 14 de Diciembre.
 
 ### Planificación del curso:
+Work in progress :)
 
-(Fechas de tareas aún no se encuentran listas)
-
-![planificación](https://user-images.githubusercontent.com/42452128/112327603-525ff180-8c94-11eb-880f-409284ad3375.png)
+<!--[planificación](https://user-images.githubusercontent.com/42452128/112327603-525ff180-8c94-11eb-880f-409284ad3375.png)-->
