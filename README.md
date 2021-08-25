@@ -13,17 +13,17 @@ Para dudas sobre la materia o enunciados de tareas puedes preguntar en las issue
 
 ### Ayudantes
 
-| Nombre              | Correo                 |
-| ------------------- | -----------------------|
-| Valentina Álvarez   | vjalvarez@uc.cl        |
-| Maite Madalosso     | maite.madalosso@uc.cl  |
-| Michelle Madrid     | msmadrid@uc.cl         |
-| Constanza Olate     | clolate@uc.cl          |
-| Juan Pablo Olivares | jpolivares3@uc.cl      |
-| Sofía Olmedo        | sofia.olmedo.s@uc.cl   |
-| Jose Quintana       | josemiguelquinta@uc.cl |
-| Astrid San Martín   | aesanmar@uc.cl         |
-| Ricardo Schilling   | reschilling@uc.cl      |
+| Nombre              | Correo                 | Tarea     |
+| ------------------- | -----------------------|-----------|
+| Juan Pablo Olivares | jpolivares3@uc.cl      | TC1       |
+| Jose Quintana       | josemiguelquinta@uc.cl | TC1       |
+| Valentina Álvarez   | vjalvarez@uc.cl        | TG1 y TC2 |
+| Michelle Madrid     | msmadrid@uc.cl         | TG1 y TC3 |
+| Constanza Olate     | clolate@uc.cl          | TC2       |
+| Ricardo Schilling   | reschilling@uc.cl      | TG2       |
+| Astrid San Martín   | aesanmar@uc.cl         | TG2       |
+| Sofía Olmedo        | sofia.olmedo.s@uc.cl   | TC4       |
+| Maite Madalosso     | maite.madalosso@uc.cl  | TC3 y TC4 |
 
 
 ## Contenidos
