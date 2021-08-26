@@ -12,4 +12,4 @@
 
 | Tema | Link |
 | ------------- | ------------- |
-| Setear ssh con GitHub | [link a youtube] (https://www.youtube.com/watch?v=-cWJ7EQPuvc)|
+| Setear ssh con GitHub | [link a youtube](https://www.youtube.com/watch?v=-cWJ7EQPuvc)|
