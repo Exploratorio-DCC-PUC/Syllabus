@@ -7,7 +7,7 @@
 | 3 | Visualización de información | [video](https://drive.google.com/file/d/1YCbVlVLZw6aUm1wpYkTtX4S_bMcGGNIZ/view) |
 | 4 | Recuperación de información | [video](https://drive.google.com/file/d/1krFipOT5C9XS7AwAjN0zNw0VprH8yY3q/view?usp=sharing)|
 | 5 | Tecnologias Web HTML/CSS | [video](https://drive.google.com/file/d/1poJEOCYXpvDvSugaOOUiveGj8B-s4N-D/view?usp=sharing)  -  [Issue #689](https://github.com/Exploratorio-DCC-PUC/Syllabus/issues/689)|
-| 6 | Tecnologias Web JS  |[]()|
+| 6 | Tecnologias Web JS  |[video](https://drive.google.com/file/d/16EMTxuwDQkRlnbXCxlNYxrhSiSmHPMz2/view?usp=sharing)|
 
 
 # Material Adicional
