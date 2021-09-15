@@ -10,6 +10,7 @@
 | 6 | Tecnologias Web JS  |[video](https://drive.google.com/file/d/16EMTxuwDQkRlnbXCxlNYxrhSiSmHPMz2/view?usp=sharing)|
 | 7 | Arquitectura de Computadores|[video]()|
 | 8 | Sistemas operativos |[video](https://drive.google.com/file/d/1nba-9XKHaAGIWwG0JvsShLRlnzRerjj_/view?usp=sharing)  -  [slides](http://iic2333.ing.puc.cl/slides/exploratorio-os.html#/)|
+| 9 | Bases de Datos 1| [video](https://drive.google.com/file/d/1ERDoX4uhc7deYPnKgKmRC_SvsnO3AGS0/view?usp=sharing) |
 
 
 # Material Adicional
