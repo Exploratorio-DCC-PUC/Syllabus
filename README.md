@@ -64,4 +64,4 @@ de presentación. Se podrán **eximir** del examen si:
 ### Planificación del curso:
 Work in progress :)
 
-![exploratorio](https://user-images.githubusercontent.com/26393051/130456543-e19b572f-22ab-43ef-9b3e-48eaaa09bbf2.png)
+![exploratorio](planificacion.png)
