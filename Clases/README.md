@@ -13,6 +13,11 @@
 | 9 | Bases de Datos 1| [video](https://drive.google.com/file/d/1ERDoX4uhc7deYPnKgKmRC_SvsnO3AGS0/view?usp=sharing) |
 | 10| Algoritmos |[video](https://drive.google.com/file/d/19dZ9laIxWMUEdgGwdDG34gxn2LQBCPpJ/view?usp=sharing)|
 | 11| Ingeniería de Software | [video](https://drive.google.com/file/d/1xeo4WtBRU-x68zHtixJFkvBg7C1UUJtM/view?usp=sharing)|
+| 12| IA/ML | [video](https://drive.google.com/file/d/1e5MnxuPl-JOtmPAHjCs3FbHNdMvpeQnX/view?usp=sharing)|
+
+
+
+
 # Material Adicional
 
 | Tema | Link |
