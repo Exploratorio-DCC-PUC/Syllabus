@@ -15,6 +15,7 @@
 | 11| Algoritmos |[video](https://drive.google.com/file/d/19dZ9laIxWMUEdgGwdDG34gxn2LQBCPpJ/view?usp=sharing)|
 | 12| Ingeniería de Software | [video](https://drive.google.com/file/d/1xeo4WtBRU-x68zHtixJFkvBg7C1UUJtM/view?usp=sharing)|
 | 13| IA/ML | [video](https://drive.google.com/file/d/1e5MnxuPl-JOtmPAHjCs3FbHNdMvpeQnX/view?usp=sharing)|
+| 14| IA/ML | [video](https://drive.google.com/file/d/1oysyR22IFwn0GKrXb6SKyzxTAPC7DAfg/view?usp=sharing)|
 
 
 
