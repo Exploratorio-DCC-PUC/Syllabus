@@ -16,7 +16,7 @@
 | 12| Ingeniería de Software | [video](https://drive.google.com/file/d/1xeo4WtBRU-x68zHtixJFkvBg7C1UUJtM/view?usp=sharing)|
 | 13| IA/ML | [video](https://drive.google.com/file/d/1e5MnxuPl-JOtmPAHjCs3FbHNdMvpeQnX/view?usp=sharing)|
 | 14| IA/ML | [video](https://drive.google.com/file/d/1oysyR22IFwn0GKrXb6SKyzxTAPC7DAfg/view?usp=sharing)|
-
+| 15| IA/ML | [video](https://drive.google.com/file/d/1NK686_AbXoPMTBqmEDg5ErJSFhbttAXt/view?usp=sharing)|
 
 
 
