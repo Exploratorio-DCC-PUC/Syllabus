@@ -17,6 +17,7 @@
 | 13| Leer un paper | [video](https://drive.google.com/file/d/1e5MnxuPl-JOtmPAHjCs3FbHNdMvpeQnX/view?usp=sharing)|
 | 14| IA/ML | [video](https://drive.google.com/file/d/1oysyR22IFwn0GKrXb6SKyzxTAPC7DAfg/view?usp=sharing)|
 | 15| IA/ML | [video](https://drive.google.com/file/d/1NK686_AbXoPMTBqmEDg5ErJSFhbttAXt/view?usp=sharing)|
+| 16| Deep Learning | [video](https://drive.google.com/file/d/17D-hXbgQh9PKebc7xE6qeKFcCt9RWeFc/view?usp=sharing)|
 
 
 
