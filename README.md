@@ -62,6 +62,5 @@ de presentación. Se podrán **eximir** del examen si:
 - Exámen: 14 de Diciembre.
 
 ### Planificación del curso:
-Work in progress :)
 
-![exploratorio](planificacion.png)
+![exploratorio](https://user-images.githubusercontent.com/26393051/140552555-004c020e-9d14-44e6-a00e-d3a08afcd185.png)
