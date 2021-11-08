@@ -20,6 +20,7 @@
 | 16| Deep Learning | [video](https://drive.google.com/file/d/17D-hXbgQh9PKebc7xE6qeKFcCt9RWeFc/view?usp=sharing)|
 | 17| Deep Learning | [video](https://drive.google.com/file/d/17D-hXbgQh9PKebc7xE6qeKFcCt9RWeFc/view?usp=sharing)|
 | 18| Algoritmos y computabilidad| [video](https://drive.google.com/file/d/17ckUSjrqIksKErIEvUpFV5yVRCnR2vnJ/view?usp=sharing)|
+| 19| Programación en lógica| [video](https://drive.google.com/file/d/1XL7tV2rGW2mottT2i9P5Qy2ipSxZz7Vs/view?usp=sharing)|
 
 # Material Adicional
 
