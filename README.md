@@ -63,4 +63,4 @@ de presentación. Se podrán **eximir** del examen si:
 
 ### Planificación del curso:
 
-![exploratorio](https://user-images.githubusercontent.com/26393051/140552555-004c020e-9d14-44e6-a00e-d3a08afcd185.png)
+![exploratorio](https://user-images.githubusercontent.com/26393051/140791687-adcbc523-82e3-4718-8a4b-9240c4f9c6d7.png)
