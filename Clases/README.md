@@ -21,7 +21,10 @@
 | 17| Deep Learning | [video](https://drive.google.com/file/d/17D-hXbgQh9PKebc7xE6qeKFcCt9RWeFc/view?usp=sharing)|
 | 18| Algoritmos y computabilidad| [video](https://drive.google.com/file/d/17ckUSjrqIksKErIEvUpFV5yVRCnR2vnJ/view?usp=sharing)|
 | 19| Programación en lógica| [video](https://drive.google.com/file/d/1XL7tV2rGW2mottT2i9P5Qy2ipSxZz7Vs/view?usp=sharing)|
-| 20| BPMN| [video](https://drive.google.com/file/d/1AhFSYZguYLh5rEh2ScWvbeAJ8Tx6sMet/view?usp=sharing)|
+| 20| Prolog | [video](https://cursos.canvas.uc.cl/courses/32403/files/4712129?module_item_id=992540)|
+| 21| BPM| [video](https://drive.google.com/file/d/1AhFSYZguYLh5rEh2ScWvbeAJ8Tx6sMet/view?usp=sharing)|
+| 22| BPM| [video](https://cursos.canvas.uc.cl/courses/32403/files/4712131?module_item_id=992542)|
+
 # Material Adicional
 
 | Tema | Link |
