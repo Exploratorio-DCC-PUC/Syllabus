@@ -10,3 +10,4 @@
 | TC2 | Diagrama ER y SQL |[video](https://drive.google.com/file/d/1_0T1CAuq04DHqGctfuXYe2KQTD8RXQVx/view?usp=sharing)|
 | TG2 | Machine Learning| [video](https://drive.google.com/file/d/1wX9B4OW-K-SyISLr6WgKEOvbHVTsxDo4/view?usp=sharing)|
 | TG2 | scikit-learn    | [video](https://drive.google.com/file/d/1PoWoeriaiXdHTOhH_hlmZnrenkRd7YA2/view?usp=sharing)|
+| TC3 | Maquinas de Turing| [video](https://drive.google.com/file/d/1RSP-3KN4C1_9s8e_rXQBwZ-CZlQMgCR5/view?usp=sharing)|
