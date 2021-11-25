@@ -24,6 +24,9 @@
 | 20| Prolog | [video](https://cursos.canvas.uc.cl/courses/32403/files/4712129?module_item_id=992540)|
 | 21| BPM| [video](https://drive.google.com/file/d/1AhFSYZguYLh5rEh2ScWvbeAJ8Tx6sMet/view?usp=sharing)|
 | 22| BPM| [video](https://cursos.canvas.uc.cl/courses/32403/files/4712131?module_item_id=992542)|
+| 23| BitCoin| [video](https://drive.google.com/file/d/1MfGEdO7ubpUQzzGSEQwYGR7_fm2TROWA/view?usp=sharing)|
+| 24| Programación competitiva| [parte1](https://drive.google.com/file/d/1jjzaw3V29azDeXR0SjdChlJcXiBJhS2z/view?usp=sharing) - [parte2](https://drive.google.com/file/d/1l0CC94NBvsH99uxBZKXTlkiTysRzyEgR/view?usp=sharing)|
+| 25| Transformacion digital| [video](https://drive.google.com/file/d/1Vc93wTJCF7mOE_wUcgrE0O6C8sXURfcy/view?usp=sharing)|
 
 # Material Adicional
 
