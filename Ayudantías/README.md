@@ -11,4 +11,4 @@
 | TG2 | Machine Learning| [video](https://drive.google.com/file/d/1wX9B4OW-K-SyISLr6WgKEOvbHVTsxDo4/view?usp=sharing)|
 | TG2 | scikit-learn    | [video](https://drive.google.com/file/d/1PoWoeriaiXdHTOhH_hlmZnrenkRd7YA2/view?usp=sharing)|
 | TC3 | Maquinas de Turing| [video](https://drive.google.com/file/d/1RSP-3KN4C1_9s8e_rXQBwZ-CZlQMgCR5/view?usp=sharing)|
-| TC4 | BPMN | [video]()|
+| TC4 | BPMN | [video](https://drive.google.com/file/d/1atlPJhoDVqn9-eE43d0GUsXTJxvjzta0/view?usp=sharing)|
